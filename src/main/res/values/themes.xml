@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.DianaSign" parent="android:Theme.Material.NoActionBar">
+        <!-- Setzt den Hintergrund direkt auf unser Schwarz -->
+        <item name="android:windowBackground">@color/black_background</item>
+    </style>
+</resources>
